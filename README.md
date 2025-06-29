@@ -1,1 +1,1 @@
-# Neural_Network
+Website for searching information in Wikipedia. Enter a query in the search bar and click send and the bot will give an answer. The site code is stored in index.html. You can use the code for your own purposes.
